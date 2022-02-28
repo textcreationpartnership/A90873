@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers presented to the Parliament, against the Lord Inchequin Lord President of Munster in Ireland, sent from Captain Crowther, Vice-Admiral of the Irish Seas. And the Lord Inchequins Declaration. With a declaration subscribed by severall eminent commanders, late of the army commanded by the Lord Inchequin. Read in both Houses of Parliament. Die Sabbathi, Aprill 15. 1648. These papers concerning the Lord Inchequins disserting the Parliament, with his declaration, and the declaration of the officers, is appointed to be published. Imprimatur Gil. Mabbott.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90873</idno>
+            <idno type="STC">Wing P300</idno>
+            <idno type="STC">Thomason E435_33</idno>
+            <idno type="STC">ESTC R5806</idno>
+            <idno type="EEBO-CITATION">99872903</idno>
+            <idno type="PROQUEST">99872903</idno>
+            <idno type="VID">125350</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90873)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125350)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers presented to the Parliament, against the Lord Inchequin Lord President of Munster in Ireland, sent from Captain Crowther, Vice-Admiral of the Irish Seas. And the Lord Inchequins Declaration. With a declaration subscribed by severall eminent commanders, late of the army commanded by the Lord Inchequin. Read in both Houses of Parliament. Die Sabbathi, Aprill 15. 1648. These papers concerning the Lord Inchequins disserting the Parliament, with his declaration, and the declaration of the officers, is appointed to be published. Imprimatur Gil. Mabbott.</title>
+                  <author>Crowther, John, Vice Admirall.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Robert Ibbitson in Smithfield, neere the Queens-head Tavern,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inchiquin, Murrough O'Brien, --  Earl of, 1614-1674 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Monica Tsuneishi</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125350:1" rendition="simple:additions"/>
+            <p>PAPERS Preſented to the <hi>Parliament,</hi> againſt the Lord <hi>Inchequin</hi> Lord Preſident of <hi>Munſter</hi> in <hi>Ireland,</hi> ſent from Captain <hi>Crowther,</hi> Vice-Admirall of the Iriſh Seas.</p>
+            <p>
+               <hi>And the Lord</hi> Inchequins <hi>Declaration.</hi> With a DECLARATION Subſcribed By ſeverall eminent Commanders, late of the Army commanded by the Lord INCHEQVIN.</p>
+            <p>Read in both Houſes of PARLIAMENT.</p>
+            <floatingText type="license" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>
+                           <hi>Die Sabbathi, Aprill 15. 1648.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>THeſe Papers concerning the Lord <hi>Inchequins</hi> diſſerting the Parli<g ref="char:EOLhyphen"/>ament, with his Declaration, And the Declaration of the Officers, is appointed to be Publiſhed.</p>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Gil. Mabbott.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Printed at <hi>London</hi> by <hi>Robert Ibbitſon</hi> in <hi>Smithfield,</hi> neere the Queens-head Tavern. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="papers">
+            <pb facs="tcp:125350:2"/>
+            <pb n="1" facs="tcp:125350:2"/>
+            <head>PAPERS Preſented to the Parliament againſt <hi>the Lord Inchequeen, Lord Preſident of</hi> Munſter in Ireland.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>I Am ſorry I have ſo ſad a ſubject as to occaſion this, ſome time ſince, having been at Sea, and ab<g ref="char:EOLhyphen"/>ſent from this Port, ſome few dayes, in my abſence the Councell of Warre exhibited Articles againſt Sir <hi>William Fenton,</hi> Knight and Colonell, Colonel <hi>Edm. Temple,</hi> Lieutenant Collonell <hi>Faire,</hi> and Major <hi>Doc<g ref="char:EOLhyphen"/>dum,</hi> which Gentlemen they have committed cloſe priſoners, to foure ſeverall Garriſons, not permitting any to have correſpondence with them; upon my re<g ref="char:EOLhyphen"/>turne into Harbour here, where I preſently underſtood of theſe ſad diviſions, I immediately wrote to the Councell of warre (my Lord being abroad in the field) that they would grant the impriſoned the liber<g ref="char:EOLhyphen"/>ty of Subjects for me to ſend to them to ſee what they had to be tranſmitted to <hi>England,</hi> which from them I could not obtain, which gave me cauſe of much ſuſpition of their actions, and occaſioned my preſent diſpatch of a Letter to be poſted to my Lord, to know whether things were acted by his pleaſure, and that
+<pb n="2" facs="tcp:125350:3"/>his Honour would declare his intention, in regard I heard a rumour he would make a Ceſſation with the Iriſh, which I proteſted againſt, and that if he did, I would block up all his Harbours, my Letter obtain<g ref="char:EOLhyphen"/>ing no Anſwer, till his return to <hi>Cork,</hi> in his way home at <hi>Mayall</hi> his actions produced this incloſed, up<g ref="char:EOLhyphen"/>on which I took Order for ſhipping, to lye in all his Harbor mouthes, and declared my beſt aſſiſtance and ſuccour, to my utmoſt power to all, whether Officers, Souldiers, or others, that would deſert him, two dayes ſince he ſent me leave to ſend to the Gentlemen in pri<g ref="char:EOLhyphen"/>ſon, which I ſuddenly did, and yeſterday received two Letters, one from Colonell <hi>Temple,</hi> the other from Sir <hi>William Fenton,</hi> the latter of which deſires me to impart to your Honour his requeſt, that you would be pleaſed to mediate to ſome of the honoura<g ref="char:EOLhyphen"/>ble Houſes of Parliament, that a Letter may be ſent from them to my Lord <hi>Inchequin,</hi> deſiring his tranſ<g ref="char:EOLhyphen"/>mitting the impriſoned Gentlemen into <hi>England,</hi> to receive their triall there, which he deſires you to be mindfull of. And that he farther advices you, that he conceives, that if the Houſes would be pleaſed to ſend over Commiſſioners ſpeedily, with ſome monies, that moſt, both Officers and Souldiers might be obtained, and ſo conſequently the Garriſons, which (Sir) true<g ref="char:EOLhyphen"/>ly is my opinion likewiſe: foraſmuch as I have heard from ſome Officers with whom I have had ſome con<g ref="char:EOLhyphen"/>ference: which is all at preſent I have to communi<g ref="char:EOLhyphen"/>cate to your Honour, onely to ſubſcribe my ſelf,</p>
+            <closer>
+               <dateline>
+                  <hi>Bonaventure Kinſale,</hi> 
+                  <date>
+                     <hi>April</hi> 5. 1648.</date>
+               </dateline>
+               <salute>My Lord,</salute> 
+               <signed>
+                  <hi>Your Honours in all ſervice to be commanded,</hi> JOHN CROWTHER,</signed>
+            </closer>
+         </div>
+         <div type="declaration">
+            <pb n="3" facs="tcp:125350:3"/>
+            <head>THE <hi>Declaration of ſeverall eminent Commanders, late of the Army commanded by the Lord</hi> INCHEQUIN.</head>
+            <p>IN obedience and difcharge of our truſt to the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> ſitting at <hi>Weſtminſter:</hi> we give this information under our hands, to be preſented to them, which wee ſhall be ready to make good in our perſons upon oath, <hi>viz.</hi>
+            </p>
+            <p>That the Lord Baron of <hi>Inchequin</hi> Lord Preſident of <hi>Munſter,</hi> having been abroad with ſome part of his Army, whereof we are members: Did upon the third of this moneth upon his returne home, being at <hi>May<g ref="char:EOLhyphen"/>alle</hi> ſend for us, who have hitherto ſubſcribed to appeare preſently before at his Quarters, which be<g ref="char:EOLhyphen"/>ing performed, and all of us aſſembled together in his preſence Chamber: His Lordſhip declared this unto us, that in order to the Nationall Covenant, and to that particular branch thereof, which concerns the re-inveſting His Majeſty in his Thron: he had with the advice of his Officers taken a reſolution to oppoſe the preſent pretended Parliament in <hi>England:</hi> who were forced by an Independent faction, they having broken all Oathes and Covenants, which they had made both to God and Man: and to that purpoſe, was now puting himſelfe into a poſture of defence: And that for the managing of this Deſigne, he had correſpondency with the King, with the <hi>Scots,</hi> and
+<pb n="4" facs="tcp:125350:4"/>generally all the Presbyterian party that were agreed with the King: who were reſolved to endeavour to their utmoſt the re-inthroning the King, and reſtor<g ref="char:EOLhyphen"/>ing a free Parliament, which hee fully declared this not to be: And for the better effecting and carrying on this Deſigne, he was reſolved to joyne with the Lord <hi>Taff,</hi> and the whole <hi>Iriſh</hi> of the Province of <hi>Mun<g ref="char:EOLhyphen"/>ſtor:</hi> who have aſſured him of their aſſiſtance, both with their perſons and eſtates, and that he had now ſent for us, who were onely the ſuſpected party of the Army to report this to us, and to require of us our reſolution whether wee all would comply with him in this or no: To which we anſwerd, We ſtood for the King and Parliament, as we had ever done, up<g ref="char:EOLhyphen"/>on which he required us not to juggle with him, but to declare whether it was this preſent Parliament wee meant, for he ſaid the truth was, they did not acknow<g ref="char:EOLhyphen"/>ledge this to be a Parliament: To which we anſwered his Lordſhip, we could not comply with him: He ſtill uſing many aggravations, to make good what hee had ſaid againſt them, and further ſaid, Hee ho<g ref="char:EOLhyphen"/>ped to ſee this preſent Parliament laid flat on their backs by <hi>Michaclmas</hi> day, and that this was no raſh reſolution, but a premeditated action, he being con<g ref="char:EOLhyphen"/>fident, that let it come to the worſt it could, yet in ſpight of all, he would be able to procure good terms both for himſelfe and the reſt that adhered to him: and that which induced him cheifly to put it in pra<g ref="char:EOLhyphen"/>ctice at preſent was, that he was now aſſured, he was before hand with the Independent party, which hee never was before; yet hee had thought for ſome time longer to have forborne his declaring, but yet ſome ſuſpitions, the Vice admirall Captaine <hi>John
+<pb n="5" facs="tcp:125350:4"/>Crowther</hi> had of him; could not permit him to car<g ref="char:EOLhyphen"/>ry it private any longer, in regard the ſaid Captain <hi>Crowther</hi> had proteſted againſt him, and blockt up his Harbours. And his Lordſhip did further declare, that al which would not joyn with him in this deſign, he required them to depart and go for <hi>England,</hi> for that he would not permit any neare him, or in his Army, that would not faithfully comply with him in his intention; and as a motive to induce us to joyn with him, he informed us that he was certainly aſſur<g ref="char:EOLhyphen"/>ed, that Collonell <hi>Jones</hi> had by order from the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> made a ceſſation with <hi>Owen Roe Oneal,</hi> and that faction; who choſe rather to enter into League with the Parliament then with the King: and in this reſpect hee would now joyne with the Lord <hi>Taffe,</hi> and <hi>Munſter</hi> forces againſt the other. For the truth of all theſe we have hereto ſubſcribed our names this ſeventh of <hi>April</hi> 1648, aboard the <hi>Bonaventure,</hi> in <hi>Kinſale</hi> Harbour.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Chriſtopher Elſing.</hi>
+                     </item>
+                     <item>
+                        <hi>Alexander Barington</hi>
+                     </item>
+                     <item>
+                        <hi>John Gray.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Davis</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Chandlor.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="statement">
+            <p>WE under written having this preſent ſeaventh of <hi>Aprill,</hi> 1648, heard read unto us the ſeverall heads made by the Lord
+<pb n="6" facs="tcp:125350:5"/>
+               <hi>Inchequin,</hi> to the reſpective Commanders in his Preſence Chamber at his head Quarters at <hi>Mayalle,</hi> the third inſtant forementioned, doe declare, that the ſaid things were in the field upon the ſame day propounded to us, and the other Officers then in the Army, whereupon he deſired our compliance, wee refuſed the ſame, as inconſiſtent with our duties to the Parliament, and thereupon diſſerted our ſeveral Charges and Offices un<g ref="char:EOLhyphen"/>der his command.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Benyworth,</hi>
+                     </item>
+                     <item>
+                        <hi>William Battle,</hi>
+                     </item>
+                     <item>
+                        <hi>Silliam Stotesbury,</hi>
+                     </item>
+                     <item>
+                        <hi>John Gettings.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS,</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
